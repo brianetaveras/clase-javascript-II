@@ -1,4 +1,4 @@
-# Introducción a Javascript
+# Javascript II: Funciones, Loops y Arrays
 
 En esta clase cubrimos las conceptos de programación cómo los loops (bucles), funciones, y arrays. Cubrimos algunos métodos básico de los arrays y 
 los diferentes tipos loops y declaraciones de funciones.
